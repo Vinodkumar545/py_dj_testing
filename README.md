@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pytest-Django Testing
 
 1. Create project folder and virutal environment inside it
@@ -17,3 +18,6 @@ email = vinodkumar.kouthal@stride.ai
 password = *********
 
 10. 
+=======
+# dj_testing
+>>>>>>> 4b9beeb909a1ad8ca643b1e9bfb775242a6b5266
